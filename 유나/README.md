@@ -94,7 +94,8 @@ public class Sample{
 **명령문은 반드시 세미콜론(;)을 붙여 문장이 끝났다는 것을 표시해야한다.**  
 메서드 블록 안에는 명령문이 여러 개 있을 수 있음
 
-![Alt text](image.png)
+![image](https://github.com/YUNA-AHN/JAVA-STUDY/assets/130244216/3aea9262-3de3-4877-a4e4-fe9fa8a55ee5)
+
 
 ### 이것이 자바다 참고
 패키지 선언 코드
