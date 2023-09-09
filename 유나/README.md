@@ -26,7 +26,7 @@ public class 클래스명 {
     -  [public|private|protected] : public, private, protected가 오거나 아무것도 오지 않을 수 있음
     - public, private, protected는 메서드의 접근 제어자
     - [static] : static 키워드가 올 수도 있고 오지 않을 수도 있다는 의미. static 키워드가 붙으면 static 메서드가 된다.
-    - (리턴 자료형|voude) : 메서드가 실행된 후 리턴되는 값의 자료형
+    - (리턴 자료형|void) : 메서드가 실행된 후 리턴되는 값의 자료형
         - 리턴값이 있을 경우에는 반드시 리턴 자료형을 표기
         - 리턴값이 없는 경우라면 void를 표기
         - void 또는 리턴 자료형이 반드시 있어야 한다.
